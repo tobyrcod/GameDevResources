@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tips/5 Reasons to use Scratch/Scratch5.md",
+            "file": "Game Jams/GMTK2022/GMTK2022 Assets.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/5 Reasons to use Scratch/Scratch5.md",
+                "file": "Game Jams/GMTK2022/GMTK2022 Assets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "4578304dc3e29f06",
   "lastOpenFiles": [
+    "Game Jams/GMTK2022/GMTK2022 Assets.md",
     "Tips/5 Reasons to use Scratch/Scratch5.md",
     "Game Jams/Brackeys Game Jam/BGJ20221.md"
   ]
