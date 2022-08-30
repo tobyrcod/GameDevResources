@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game Jams/GMTK2022/GMTK2022 Assets.md",
-            "mode": "source"
+            "file": "Game Jams/Wowie Jam/Wowie Jam 4.0/Wowie Jam 4.0 Attribution.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Jams/GMTK2022/GMTK2022 Assets.md",
+                "file": "Game Jams/Wowie Jam/Wowie Jam 4.0/Wowie Jam 4.0 Attribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +89,10 @@
   },
   "active": "4578304dc3e29f06",
   "lastOpenFiles": [
+    "Game Jams/Brackeys Game Jam/BGJ20221.md",
+    "Game Jams/Wowie Jam/Wowie Jam 4.0/Wowie Jam 4.0 Attribution.md",
     "Game Jams/GMTK2022/GMTK2022 Assets.md",
-    "Tips/5 Reasons to use Scratch/Scratch5.md",
-    "Game Jams/Brackeys Game Jam/BGJ20221.md"
+    "README.md",
+    "Tips/5 Reasons to use Scratch/Scratch5.md"
   ]
 }
