@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "6d51f71c32c4020a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9f019b62ab339e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f3f24953b90b17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seamless/Adding Secret Worlds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d694c1b930ef80fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "173ddf73ecbaa320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3aadce7384f6f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "baf74f3ba38e7481",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbb6097334d03294",
+    "type": "split",
+    "children": [
+      {
+        "id": "6386f8f310d33c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7ffa50da8b03d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Seamless/Adding Secret Worlds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9f3f24953b90b17c",
+  "lastOpenFiles": [
+    "Challenges/Making a Game with No Wifi/Making a Game with No Wifi Resources.md",
+    "Seamless/Adding Secret Worlds.md",
+    "Game Jams/Wowie Jam/Wowie Jam 4.0/Wowie Jam 4.0 Attribution.md",
+    "Game Jams/Brackeys Game Jam/BGJ20221.md",
+    "Game Jams/GMTK2022/GMTK2022 Assets.md",
+    "README.md",
+    "Tips/5 Reasons to use Scratch/Scratch5.md"
+  ]
+}
