@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "062ae34e29df0d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remakes/BABA IS REMAKE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bbb6097334d03294",
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips/Mistakes in 2023.md",
+                "file": "Remakes/BABA IS REMAKE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +142,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e814f8986765d329",
+  "active": "062ae34e29df0d93",
   "lastOpenFiles": [
-    "Seamless/The Sad Secrets of Game Dev.md",
     "Tips/Mistakes in 2023.md",
+    "Remakes/BABA IS REMAKE.md",
+    "Seamless/The Sad Secrets of Game Dev.md",
     "Seamless/Adding Secret Worlds.md",
     "Challenges/Making a Game with No Wifi/Making a Game with No Wifi Resources.md",
     "Game Jams/Wowie Jam/Wowie Jam 4.0/Wowie Jam 4.0 Attribution.md",
