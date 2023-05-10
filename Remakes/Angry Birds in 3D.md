@@ -57,4 +57,6 @@ alt="Youtube Video" width="240" height="180" border="10" /></a>
 Liscenced under Creative Commons Attribution on Youtube [Creative Commons Attribution licence (reuse allowed)](https://www.youtube.com/t/creative_commons)
 ***No Changes Made unless explicitliy stated.***
   
-This video features materials protected by the Fair Use guidelines of Section 107 of the Copyright Act. All rights reserved to the copyright owners.
+Nintendo Game Footage and Audio used according to the [Nintendo Game Content Guidelines  
+for Online Video & Image Sharing Platforms](https://www.nintendo.co.jp/networkservice_guideline/en/index.html)
+
