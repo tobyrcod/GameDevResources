@@ -34,8 +34,11 @@ alt="Youtube Video" width="240" height="180" border="10" /></a>
 [Pointing Hand](https://www.vecteezy.com/vector-art/19483363-pointing-hand-illustration-design)
 [Metal Chain](https://www.vecteezy.com/vector-art/15680207-vector-realistic-chrome-metal-chains)
 
+**Art:**
+[Om Nom on Rope](https://www.deviantart.com/davepark1999/art/Om-nom-but-cut-the-rope-2-version-964690097)
+
 **Thumbnail Art:**
-[DavePark1999 - Om Nom Excited](https://www.deviantart.com/davepark1999/art/Om-nom-excited-946570425)
+[Om Nom Excited](https://getstickerpack.com/stickers/cut-the-rope-om-nom-wow-pack)
 [Cut the Rope Star and Candy](https://cuttherope.net/)
 
 **Youtube Videos:**
