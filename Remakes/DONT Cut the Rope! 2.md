@@ -1,5 +1,10 @@
 **Timestamps**
-
+00:00 - Why you Should and Shouldn't use Softbody Physics in your Indie Game
+00:14 - Improving my GMTK Game Jam Game by Breaking it (Role Reversed Cut the Rope)
+00:36 - How Softbody Physics Works (Explained the FUN Way)
+01:44 - Some of the funniest game breaking bugs I have ever seen...
+02:30 - ...and some in extremely unexpected ways
+03:26 - Why I am Happy Softbody Physics Broke my Game
 
 **Le Shameless Plugs** 🔌
 
@@ -33,6 +38,9 @@
 [Cut the Rope Star and Candy](https://cuttherope.net/)
 
 **Youtube Videos:**
+[How to make Softbody Physics in Unity]([https://www.youtube.com/watch?v=3avaX00MhYc](https://www.youtube.com/watch?v=3avaX00MhYc))
+[30 UNITY Tips for 2 Games](https://www.youtube.com/watch?v=gg07tzbj2pU)
+[Physics of JellyCar](https://www.youtube.com/watch?v=3OmkehAJoyo)
 [Water Balloon](https://www.youtube.com/watch?v=D2r8wMkppYU)
 [Pulp Fiction John Travolta](https://tenor.com/en-GB/view/pulp-fiction-john-travolta-lost-where-wtf-gif-10251428)
 [Cut the Rope All Game's Walkthrough](https://www.youtube.com/watch?v=aL4uLGCKByI)
