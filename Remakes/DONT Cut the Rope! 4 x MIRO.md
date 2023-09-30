@@ -27,7 +27,7 @@ for free!
 [Bone](https://www.vecteezy.com/vector-art/3748760-candy-of-bone) 
 [Bug](https://www.vecteezy.com/vector-art/11439648-egyptian-culture-bug)
 [Cheese](https://www.vecteezy.com/vector-art/441779-vector-cheese-icon)
-[Yellow Recycling Bin]([https://www.vecteezy.com/vector-art/694416-set-of-recycling-bins](https://www.vecteezy.com/vector-art/694416-set-of-recycling-bins))
+[Yellow Recycling Bin]([https://www.vecteezy.com/vector-art/694416-set-of-recycling-bins](https://www.vecteezy.com/vector-art/694416-set-of-recycling-bins)
 [School Classroom](https://www.vecteezy.com/video/3316277-cartoon-background-moody-classroom)
 [Flames](https://www.vecteezy.com/video/1616412-soft-warm-flames-for-relaxing-topics-in-4k-slow-motion)
 [Boot](https://www.vecteezy.com/vector-art/4220405-boot-patch-retro-style)
